@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support Chat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Selamat Datang di Layanan Chat</h1>
+    <p>Klik tombol chat di pojok kanan bawah untuk mulai berbicara dengan kami.</p>
+
+    <!-- Kode Tawk.to (akan ditambahkan di langkah berikutnya) -->
+
+</body>
+</html>
